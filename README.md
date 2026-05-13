@@ -1,4 +1,4 @@
-# 🏰 Dungeon Sovereign
+# 🏰 Dungeon Master
 
 ## 🇹🇷 Türkçe
 
