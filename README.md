@@ -1,6 +1,6 @@
 # 🏰 Dungeon Master
 
-## 🇹🇷 Türkçe
+## TR Türkçe
 
 Stratejik bir dungeon savunma oyununda Dungeon Master olarak oynuyorsunuz.
 Tuzaklar kurun, yaratıklar spawnlayın, bossunuzu koruyun ve giderek güçlenen kahraman dalgalarına karşı hayatta kalın.
@@ -86,7 +86,7 @@ Zombie — Pxltiger
 
 ---
 
-# 🇬🇧 English
+# EN English
 
 A strategic dungeon-defense game where you play as the Dungeon Master.
 Build traps, spawn monsters, protect your boss, and survive against increasingly powerful heroes.
