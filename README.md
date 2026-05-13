@@ -44,7 +44,7 @@ Her tur kahramanlar daha güçlü gelir ve stratejinizi geliştirmeniz gerekir.
   Boss ölürse dungeon düşer.
 
 ---
-#🎮 Kontroller
+# 🎮 Kontroller
 
 Mouse Click → Tuzak yerleştir
 
@@ -141,7 +141,7 @@ Every wave becomes harder as heroes grow stronger over time.
   If the boss dies, the dungeon falls.
 
 ---
-#🎮 Controls
+# 🎮 Controls
 Mouse Click → Place traps
 
 W,S → Move Your Camera
