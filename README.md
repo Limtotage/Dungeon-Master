@@ -44,14 +44,20 @@ Her tur kahramanlar daha güçlü gelir ve stratejinizi geliştirmeniz gerekir.
   Boss ölürse dungeon düşer.
 
 ---
-🎮 Kontroller
+#🎮 Kontroller
 
 Mouse Click → Tuzak yerleştir
+
 W, S → Kamerayı hareket ettir
+
 Tab → Tuzak panelini aç
+
 P → Oyunu duraklat
+
 Escape → İnşa modundan çık
+
 UI Butonları → Yapı seç
+
 
 # 🎮 Play in Browser
 
@@ -137,11 +143,17 @@ Every wave becomes harder as heroes grow stronger over time.
 ---
 #🎮 Controls
 Mouse Click → Place traps
+
 W,S → Move Your Camera
+
 Tab → Open Traps Panel
+
 P → Pause game
+
 Escape → Exit Building
+
 UI Buttons → Select structures
+
 
 # 🎮 Play in Browser
 
