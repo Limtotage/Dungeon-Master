@@ -76,10 +76,15 @@ Ses Efektleri: Pixabay üzerindeki ses efektlerinin çoğu yapay zekâ üretimi 
 Oyun Assetleri:
 
 Battle Wizard Poly Art — Dungeon Mason
+
 RPG Tiny Hero Duo PBR Polyart — Dungeon Mason
+
 Boss Monster için Dragon: HP — Dungeon Mason
+
 Stylized Low Poly Skeleton — SazenGames
+
 3D Characters Zombie City Streets Lowpoly Pack - Lite — CatBorg Studio
+
 Zombie — Pxltiger
 
 ---
@@ -161,8 +166,13 @@ Sound Effects: Most of the sound effects from Pixabay are non-AI-generated. Howe
 Game Assets: 
 
 Battle Wizard Poly Art --- Dungeon Mason
+
 RPG Tiny Hero Duo PBR Polyart --- Dungeon Mason  
+
  Dragon for Boss Monster : HP  --- Dungeon Mason 
+ 
  Stylized Low Poly Skeleton  --- SazenGames 
+ 
  3D Characters Zombie City Streets Lowpoly Pack - Lite --- CatBorg Studio
+ 
 Zombie --- Pxltiger
